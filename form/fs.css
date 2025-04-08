@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(167, 160, 160);
+}
+.continer {
+    border:2px solid black ;
+    border-radius: 30px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-49%, -49%);
+    background-color:rgb(29, 140, 131);
+
+}
+.input{
+    margin: 16px;
+    padding: 5px;
+
+}
+
+
+.first_name {
+    margin-right: 15px;
+}
+.button1{
+color: green;
+margin-right: 18px;
+margin-left: 70%;
+}
+.button2{
+color: red;
+}
